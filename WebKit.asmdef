@@ -1,0 +1,17 @@
+{
+    "name": "CGK.WebKit",
+    "rootNamespace": "WebKit",
+    "references": [
+        "UniTask",
+        "CGK"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

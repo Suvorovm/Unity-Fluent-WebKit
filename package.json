@@ -1,0 +1,23 @@
+{
+  "name": "com.cgk.webkit",
+  "version": "0.0.1",
+  "displayName": "WebKit",
+  "description": "Unity HTTP client library with UniTask async support, decorator pattern for auth/HTTPS, retry logic, and fluent request builder.",
+  "unity": "2021.3",
+  "type": "library",
+  "dependencies": {
+    "com.cysharp.unitask": "2.3.3",
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.suvorov.common": "https://github.com/Suvorovm/CGK.git#0.0.60"
+  },
+  "author": {
+    "name": "CGK",
+    "email": "royming06@gmail.com"
+  },
+  "keywords": [
+    "http",
+    "web",
+    "unitask",
+    "networking"
+  ]
+}
