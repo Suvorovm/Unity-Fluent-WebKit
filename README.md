@@ -22,7 +22,7 @@ Add to your project's `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.cgk.webkit": "https://github.com/YOUR_REPO.git?path=Assets/Scripts/WebKit",
+    "com.cgk.webkit": "https://github.com/Suvorovm/Unity-Fluent-WebKit.git?path=Assets/Scripts/WebKit",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.unity.nuget.newtonsoft-json": "3.2.1",
     "com.suvorov.common": "https://github.com/Suvorovm/CGK.git#0.0.60"
@@ -282,7 +282,7 @@ WebKit — лёгкий HTTP-клиент для Unity поверх `UnityWebReq
 ```json
 {
   "dependencies": {
-    "com.cgk.webkit": "https://github.com/ВАШ_РЕПО.git?path=Assets/Scripts/WebKit",
+    "com.cgk.webkit": "https://github.com/Suvorovm/Unity-Fluent-WebKit.git?path=Assets/Scripts/WebKit",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.unity.nuget.newtonsoft-json": "3.2.1",
     "com.suvorov.common": "https://github.com/Suvorovm/CGK.git#0.0.60"
